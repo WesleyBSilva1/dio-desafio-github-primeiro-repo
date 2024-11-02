@@ -1,10 +1,6 @@
 # dio-desafio-github-primeiro-repo
 
-* # Repositório criado para o desafio do ** Projeto GitHub da Dio ** *
-
 # Aprendizado sobre GitHub
-
-## Resumo
 Nessas aulas, aprendi a como usar o GitHub, seus principais comandos e algumas peculiaridades que envolvem a plataforma e o sistema de versionamento Git. Abaixo, destaco os principais pontos aprendidos.
 
 ## Comandos Principais
